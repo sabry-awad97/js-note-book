@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput",
-    "start:dev": "node dist/index.js serve",
+    "start:serve": "node dist/index.js serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
