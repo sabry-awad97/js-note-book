@@ -1,0 +1,1 @@
+[{"content":"import React from 'react';\n\nconst App = () => <h1>Hello World!</h1>;\n\nshow(<App />);","type":"code","id":"j5rQvUy62dCYz9w_G_X1v"}]
